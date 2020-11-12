@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "개발자가 되고싶은 규무링"
-  avatar           : 
+  avatar           : "/assets/images/pikachu.png"
   bio              : "앙 규문띠!"
   location         : "South Korea"
   email            :

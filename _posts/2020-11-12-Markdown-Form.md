@@ -1,4 +1,10 @@
-﻿# Markdown 문법 알아보기  
+﻿---
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+---
+
+# Markdown 문법 알아보기  
 > Update : 2020-11-12
 
 이 글은 devinlife의 git page 블로그 따라하기 시리즈를 보며 md 파일 작성법을 익히기 위해서 작성하였음.  

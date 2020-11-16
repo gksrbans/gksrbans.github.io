@@ -2,6 +2,13 @@
 toc: true
 toc_label: "Dynamic-Programming(DP)"
 toc_icon: "cog"
+
+categories:
+  - Algorithm
+tags:
+  - Python
+  - Dynamic-Programming
+  - Memoization
 ---
 
 # Dynamic Programming, DP

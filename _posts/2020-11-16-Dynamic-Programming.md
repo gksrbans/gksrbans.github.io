@@ -1,7 +1,4 @@
 ﻿---
-title:  "Dynamic-Programming"
-excerpt: "DP 알고리즘 이해"
-
 toc: true
 toc_label: "Dynamic-Programming(DP)"
 toc_icon: "cog"
